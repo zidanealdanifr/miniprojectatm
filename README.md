@@ -1,2 +1,2 @@
-# Mini Project with Python
+# Mini Project ATM
 Mini project ATM with Python
